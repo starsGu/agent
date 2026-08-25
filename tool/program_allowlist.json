@@ -1,0 +1,11 @@
+{
+  "programs": [
+    "pdftotext",
+    "pdftoppm",
+    "pdfinfo",
+    "pdfimages",
+    "qpdf",
+    "pdftk",
+    "tesseract"
+  ]
+}

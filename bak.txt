@@ -1,0 +1,4 @@
+    "fetch": {
+      "transport": "streamable_http",
+      "url": "https://mcp.api-inference.modelscope.net/ff525f75b3d942/mcp"
+    },

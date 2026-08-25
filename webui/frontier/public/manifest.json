@@ -1,0 +1,9 @@
+{
+  "short_name": "Frontier",
+  "name": "Frontier 智能对话助手",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#171b19",
+  "background_color": "#f2f5f1"
+}

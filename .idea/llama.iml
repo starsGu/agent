@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="pyproject.toml" type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/fetch-plugin/1.0.0/hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/fetch-plugin/1.0.0/skills" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/projects-plugin/1.0.0/hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/projects-plugin/1.0.0/skills/docx" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/projects-plugin/1.0.0/skills/powerpoint" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/projects-plugin/1.0.0/skills/pptx" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/rag-plugin/1.0.0/hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/rag-plugin/1.0.0/skills" />
+    </content>
+    <orderEntry type="jdk" jdkName="D:\CondaData\envs\llama" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
