@@ -19,3 +19,8 @@ wheels/
 # plugins
 plugins/
 
+# frontier
+webui/frontier/build
+webui/frontier/dist
+webui/frontier/node_modules
+
